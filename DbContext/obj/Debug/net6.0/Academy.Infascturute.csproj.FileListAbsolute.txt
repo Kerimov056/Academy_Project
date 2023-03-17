@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\bin\Debug\net6.0\Academy.Infascturute.deps.json
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\bin\Debug\net6.0\Academy.Infascturute.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\bin\Debug\net6.0\Academy.Infascturute.pdb
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.AssemblyInfo.cs
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.csproj.CopyComplete
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\refint\Academy.Infascturute.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\Academy.Infascturute.pdb
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\DbContext\obj\Debug\net6.0\ref\Academy.Infascturute.dll

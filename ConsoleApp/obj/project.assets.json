@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Academy.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Academy.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Core.dll": {}
+        }
+      },
+      "Academy.Infascturute/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Academy.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Academy.Infascturute.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Infascturute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy.Core/1.0.0": {
+      "type": "project",
+      "path": "../Academy.Core/Academy.Core.csproj",
+      "msbuildProject": "../Academy.Core/Academy.Core.csproj"
+    },
+    "Academy.Infascturute/1.0.0": {
+      "type": "project",
+      "path": "../DbContext/Academy.Infascturute.csproj",
+      "msbuildProject": "../DbContext/Academy.Infascturute.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Academy.Infascturute >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Legion\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Legion\\Desktop\\work.C#\\acadmey_Proje\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\Legion\\Desktop\\work.C#\\acadmey_Proje\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Legion\\Desktop\\work.C#\\acadmey_Proje\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Legion\\Desktop\\work.C#\\acadmey_Proje\\DbContext\\Academy.Infascturute.csproj": {
+              "projectPath": "C:\\Users\\Legion\\Desktop\\work.C#\\acadmey_Proje\\DbContext\\Academy.Infascturute.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

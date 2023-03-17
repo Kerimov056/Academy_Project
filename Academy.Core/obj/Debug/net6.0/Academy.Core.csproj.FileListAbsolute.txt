@@ -1,0 +1,12 @@
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\bin\Debug\net6.0\Academy.Core.deps.json
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\bin\Debug\net6.0\Academy.Core.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\bin\Debug\net6.0\Academy.Core.pdb
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.AssemblyInfo.cs
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\refint\Academy.Core.dll
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\Academy.Core.pdb
+C:\Users\Legion\Desktop\work.C#\acadmey_Proje\Academy.Core\obj\Debug\net6.0\ref\Academy.Core.dll
